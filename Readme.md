@@ -66,10 +66,10 @@ En la carpeta *builds* puedes encontrar un archivo llamado *PingPong.apk*, desca
 * **Jugador2**: Presiona la tecla :arrow_up: para subir la paleta, presiona la tecla :arrow_down: para bajar la paleta.
 
 ### Android :iphone:
-* **Player1**: Touch in the left top of the screen to up the paddle or touch in the left bottom of the screen to down the paddle.
-* **Player2**: Touch in the right top of the screen to up the paddle or touch in the right bottom of the screen to down the paddle.
-* **Jugador1**: Toca en la parte superior izquierda de la pantalla para que la paleta suba o toca en la parte inferior izquierda de la pantalla para que la paleta baje.
-* **Jugador2**: Toca en la parte superior derecha de la pantalla para que la paleta suba o toca en la parte inferior derecha de la pantalla para que la paleta baje.
+* **Player1**: *Touch* in the *left top of the screen* to up the paddle or *touch* in the *left bottom of the screen* to down the paddle.
+* **Player2**: *Touch* in the *right top of the screen* to up the paddle or *touch* in the *right bottom of the screen* to down the paddle.
+* **Jugador1**: *Toca* en la parte *superior izquierda de la pantalla* para que la paleta suba o *toca* en la parte *inferior izquierda de la pantalla* para que la paleta baje.
+* **Jugador2**: *Toca* en la parte *superior derecha de la pantalla* para que la paleta suba o *toca* en la parte *inferior derecha de la pantalla* para que la paleta baje.
 
 ## :nerd_face: **About me** || **Acerca de mi** :nerd_face:
 
