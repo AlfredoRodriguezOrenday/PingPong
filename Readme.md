@@ -13,6 +13,9 @@ string Greet = "Hello world, my name is Alfredo and this is one of my proyects";
 
  I did the Ping Pong Videogame with the engine Unity and C#.
 
+ > :information_source: Unity Verison: 2020.3.19f1 :information_source:
+ > :information_source: C# Version: 7.0.5 :information_source:
+
 The **game mechanics** are simple the Paddles can move up and down, if the ball hit with the paddle the ball go in  the opposite direction with 1.1 more velocity each time hit a paddle, if the ball don't hit with paddle and hit with the back wall the other player won a point.
 
 I use the components of unity to add physics, hitboxs, materials, fonts, enviorment of execution, classes, debug logger and particles. From C# I used the POO and the logic of the lenguage. 
@@ -29,7 +32,11 @@ string Saludar = "Hola mundo, mi nombre es Alfredo y este es uno de mis proyecto
 
 > En este proyecto hice un Videojuego de Ping Pong
 ### Acerca del videojuego :information_source:
+
 Hice el videojuego de ping pong con el motor Unity y C#.
+
+> :information_source: Unity Verison: 2020.3.19f1 :information_source:
+> :information_source: C# Version: 7.0.5 :information_source:
 
 Las **mecanicas del juego** son simples las paletas se pueden mover hacia arriba y hacia bajo, si la bola se golpea con la paleta la bola ira en la direccion opuesta con 1.1 mas velocidad cada vez que se golpe con una paleta, si la bola no se golpea con la paleta y se golpea con las pared de atras el otro jugador ganara un punto.
 
