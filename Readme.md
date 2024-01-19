@@ -54,9 +54,13 @@ Las **mecanicas del juego** son simples las paletas se pueden mover hacia arriba
 
 ### Windows :computer:
 
-In the folder *builds* you can find an archive named *Ping_Pon.exe*, download the archive and do double click.
+[Itch.io](https://alfredoro.itch.io/ping-pong)
 
-En la carpeta *builds* puedes encontrar un archivo llamado *Ping_Pon.exe*, descarga el archivo y haz doble click.
+Unzip all files from the zip archive. 
+Execute the archive named *Ping_Pon.exe*.
+
+Descomprime los archivos y las carpetas.
+Ejecuta el archivo llamado *Ping_Pon.exe*.
 
 ### Android :iphone:
 
