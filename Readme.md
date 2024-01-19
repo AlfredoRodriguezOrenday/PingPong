@@ -52,6 +52,10 @@ Las **mecanicas del juego** son simples las paletas se pueden mover hacia arriba
 
 ## :space_invader: How to Execute the game || Como ejecutar el juego :space_invader:
 
+### Play on the browser
+
+Click on the link :point_right: [Itch.io](https://alfredoro.itch.io/ping-pong-web)
+
 ### Windows :computer:
 
 Download the zip :point_right:  [Itch.io](https://alfredoro.itch.io/ping-pong)
