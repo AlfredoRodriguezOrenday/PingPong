@@ -54,6 +54,8 @@ Las **mecanicas del juego** son simples las paletas se pueden mover hacia arriba
 
 ### Windows :computer:
 
+Download the zip :point_down:
+
 [Itch.io](https://alfredoro.itch.io/ping-pong)
 
 Unzip all files from the zip archive. 
